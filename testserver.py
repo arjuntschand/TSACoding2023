@@ -22,7 +22,4 @@ if __name__ == '__main__':
     app.run(debug=True, host="192.168.86.27", port=5000)
 
 print("hi")
-
-
-
-test update
+hello
