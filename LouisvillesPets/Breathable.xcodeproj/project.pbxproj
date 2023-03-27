@@ -19,9 +19,6 @@
 		DC6EE05527138DB2008DF188 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC6EE05427138DB2008DF188 /* Assets.xcassets */; };
 		DC6EE05827138DB2008DF188 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC6EE05627138DB2008DF188 /* LaunchScreen.storyboard */; };
 		DCC5400D29CFA1E300384339 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCC5400C29CFA1E300384339 /* Images.xcassets */; };
-		DCCB2F9829A2D2B7005219D7 /* LiveFeedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCCB2F9729A2D2B7005219D7 /* LiveFeedVC.swift */; };
-		DCCB2F9A29A2D2CB005219D7 /* ContactInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCCB2F9929A2D2CB005219D7 /* ContactInfoVC.swift */; };
-		DCCB2F9C29A2D2F9005219D7 /* SimulateVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCCB2F9B29A2D2F9005219D7 /* SimulateVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,9 +36,6 @@
 		DC6EE05727138DB2008DF188 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC6EE05927138DB2008DF188 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DCC5400C29CFA1E300384339 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		DCCB2F9729A2D2B7005219D7 /* LiveFeedVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveFeedVC.swift; sourceTree = "<group>"; };
-		DCCB2F9929A2D2CB005219D7 /* ContactInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactInfoVC.swift; sourceTree = "<group>"; };
-		DCCB2F9B29A2D2F9005219D7 /* SimulateVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimulateVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +73,6 @@
 				DC6EE04B27138DB1008DF188 /* AppDelegate.swift */,
 				DC6EE04D27138DB1008DF188 /* SceneDelegate.swift */,
 				DC6EE05127138DB1008DF188 /* Main.storyboard */,
-				DCCB2F9729A2D2B7005219D7 /* LiveFeedVC.swift */,
-				DCCB2F9929A2D2CB005219D7 /* ContactInfoVC.swift */,
-				DCCB2F9B29A2D2F9005219D7 /* SimulateVC.swift */,
 				DC6EE05427138DB2008DF188 /* Assets.xcassets */,
 				DC6EE05627138DB2008DF188 /* LaunchScreen.storyboard */,
 				DC6EE05927138DB2008DF188 /* Info.plist */,
@@ -167,15 +158,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DCCB2F9829A2D2B7005219D7 /* LiveFeedVC.swift in Sources */,
 				DC32CDE929D0F38700049D1D /* MoreInfoVC.swift in Sources */,
 				DC6EE04C27138DB1008DF188 /* AppDelegate.swift in Sources */,
 				DC6EE04E27138DB1008DF188 /* SceneDelegate.swift in Sources */,
-				DCCB2F9C29A2D2F9005219D7 /* SimulateVC.swift in Sources */,
 				DC32CDE729D0F37900049D1D /* DonateVC.swift in Sources */,
 				DC32CDE129D0F2CD00049D1D /* AboutUsVC.swift in Sources */,
 				DC32CDE529D0F36200049D1D /* FosterVC.swift in Sources */,
-				DCCB2F9A29A2D2CB005219D7 /* ContactInfoVC.swift in Sources */,
 				DC32CDE329D0F2F900049D1D /* MatchVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -340,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.04;
-				PRODUCT_BUNDLE_IDENTIFIER = com.arjuntschand.Breathable;
+				PRODUCT_BUNDLE_IDENTIFIER = com.arjuntschand.LouisvillesPets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -370,7 +358,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.04;
-				PRODUCT_BUNDLE_IDENTIFIER = com.arjuntschand.Breathable;
+				PRODUCT_BUNDLE_IDENTIFIER = com.arjuntschand.LouisvillesPets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
