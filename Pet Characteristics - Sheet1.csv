@@ -1,0 +1,71 @@
+Pet Type,Breed,Energy Level,Free Time Required,Experience Required
+Cat,Persian,Lazy,2-4 Hours,None
+Cat,Bengal,Playful,4-8 Hours,3-5 years
+Dog,Greyhound,Energetic,8+ Hours,5+ years
+Dog,Pug,Lazy,0-2 Hours,None
+Bird,Cockatiel,Playful,2-4 Hours,None
+Bird,Macaw,Energetic,4-8 Hours,5+ years
+Hamster,Syrian,Playful,0-2 Hours,None
+Hamster,Roborovski,Energetic,0-2 Hours,1-3 years
+Other,Rabbit,Lazy,4-8 Hours,1-3 years
+Cat,Bengal,Energetic,4-8 Hours,5+ years
+Cat,Ragdoll,Lazy,2-4 Hours,None/None
+Cat,British Shorthair,Playful,2-4 Hours,None
+Cat,Scottish Fold,Lazy,0-2 Hours,None
+Cat,Burmese,Energetic,4-8 Hours,5+ years
+Dog,Labrador Retriever,Playful,4-8 Hours,1-3 years
+Dog,Poodle,Energetic,4-8 Hours,1-3 Years
+Dog,Chihuahua,Lazy,0-2 Hours,None
+Dog,Dachshund,Playful,2-4 Hours,1-3 years
+Dog,Boxer,Energetic,4-8 Hours,5+ years
+Bird,Budgerigar,Playful,2-4 Hours,None
+Bird,Macaw,Energetic,8+ Hours,5+ years
+Bird,Parakeet,Playful,2-4 Hours,None
+Bird,Eclectus,Lazy,4-8 Hours,1-3 Years
+Hamster,Chinese,Playful,0-2 Hours,None
+Hamster,Winter White,Energetic,0-2 Hours,None
+Hamster,Campbell's,Lazy,0-2 Hours,None
+Rabbit,Angora,Playful,2-4 Hours,5+ years
+Rabbit,Lionhead,Lazy,4-8 Hours,1-3 Years
+Rabbit,Rex,Energetic,2-4 Hours,1-3 years
+Cat,Exotic Shorthair,Lazy,2-4 Hours,None
+Cat,Chartreux,Energetic,4-8 Hours,5+ years
+Cat,American Shorthair,Playful,2-4 Hours,1-3 years
+Cat,Himalayan,Lazy,2-4 Hours,None
+Cat,Devon Rex,Energetic,4-8 Hours,1-3 Years
+Dog,Shih Tzu,Playful,2-4 Hours,None
+Dog,Rottweiler,Energetic,4-8 Hours,5+ years
+Dog,Border Collie,Playful,8+ Hours,5+ years
+Dog,Shetland Sheepdog,Lazy,2-4 Hours,1-3 years
+Dog,Great Dane,Energetic,8+ Hours,5+ years
+Bird,Conure,Playful,2-4 Hours,1-3 Years
+Cat,Scottish Fold,Lazy,2-4 Hours,None
+Cat,Devonshire Rex,Playful,2-4 Hours,1-3 years
+Cat,Russian Blue,Energetic,4-8 Hours,1-3 years
+Cat,Bengal,Playful,4-8 Hours,1-3 years
+Cat,Sphynx,Energetic,2-4 Hours,5+ years
+Dog,Golden Retriever,Playful,4-8 Hours,1-3 years
+Dog,German Shepherd,Energetic,4-8 Hours,1-3 years
+Dog,Pug,Lazy,2-4 Hours,None
+Dog,Beagle,Playful,2-4 Hours,1-3 years
+Dog,Siberian Husky,Energetic,8+ Hours,1-3 years
+Bird,Cockatiel,Playful,2-4 Hours,None
+Bird,African Grey Parrot,Energetic,8+ Hours,5+ years
+Bird,Amazon Parrot,Playful,4-8 Hours,1-3 years
+Bird,Canary,Lazy,0-2 Hours,None
+Bird,Lovebird,Playful,2-4 Hours,None
+Hamster,Syrian,Energetic,0-2 Hours,None
+Hamster,Roborovski,Playful,0-2 Hours,None
+Hamster,Djungarian,Lazy,0-2 Hours,None
+Rabbit,Flemish Giant,Playful,4-8 Hours,1-3 years
+Rabbit,Holland Lop,Lazy,2-4 Hours,None
+Rabbit,Netherland Dwarf,Energetic,2-4 Hours,None
+Cat,Burmese,Playful,2-4 Hours,None
+Cat,Turkish Van,Energetic,4-8 Hours,1-3 years
+Cat,Bombay,Lazy,2-4 Hours,None
+Cat,Tonkinese,Playful,2-4 Hours,1-3 years
+Cat,British Shorthair,Lazy,4-8 Hours,1-3 years
+Dog,Dalmatian,Energetic,4-8 Hours,1-3 years
+Dog,Bernese Mountain Dog,Playful,4-8 Hours,1-3 years
+Dog,Jack Russell Terrier,Energetic,2-4 Hours,1-3 years
+Dog,Bulldog,Lazy,2-4 Hours,None
